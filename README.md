@@ -1,2 +1,2 @@
-# machine-learning
-machine learning basic jupyter notebook.
+# Machine Learning 
+ML small projects in  regression,classification and clustering.
